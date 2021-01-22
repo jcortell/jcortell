@@ -27,9 +27,9 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_projects: yes
+          plugin_projects: no
           plugin_projects_limit: 15
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_tweets: yes
+          plugin_tweets: no
           plugin_tweets_limit: 3
