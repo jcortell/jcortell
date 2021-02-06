@@ -1075,7 +1075,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.52 s
+                1.47 s
               
             </div>
             
@@ -1097,7 +1097,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.06 s
+                0.03 s
               
             </div>
             
@@ -1119,7 +1119,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.09 s
+                1.05 s
               
             </div>
             
@@ -3269,7 +3269,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Madrid</span>
           
-          <span>Last updated Sat, 06 Feb 2021 08:05:18 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 06 Feb 2021 09:04:29 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
