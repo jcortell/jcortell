@@ -1286,8 +1286,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                  <text x="60" y="60" dominant-baseline="central">97</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                  <text x="60" y="60" dominant-baseline="central">95</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1362,7 +1362,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.35 s
+                1.37 s
               
             </div>
             
@@ -1373,7 +1373,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.92 s
+                0.97 s
               
             </div>
             
@@ -1384,7 +1384,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.09 s
+                0.11 s
               
             </div>
             
@@ -1395,7 +1395,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.92 s
+                0.96 s
               
             </div>
             
@@ -1406,7 +1406,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.05 s
+                1.41 s
               
             </div>
             
@@ -3363,7 +3363,7 @@
                   
                   <div class="name">
                     <span>lawl/NoiseTorch</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3572,7 +3572,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Madrid</span>
           
-          <span>Last updated Fri, 19 Mar 2021 05:06:30 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 19 Mar 2021 06:05:05 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
